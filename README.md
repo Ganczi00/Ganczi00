@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ganczi
+- 👀 I’m interested in games, films, creating websites
+- 🌱 I’m currently learning how to be a good frontend developer
